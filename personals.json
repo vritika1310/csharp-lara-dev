@@ -9,6 +9,30 @@
     "working_in": "JavaScript, Node.js, Laravel",
     "github": "prokawsar",
     "facebook": "fkawsar"
+   },
+  
+  {
+    "name": "Vritika Singla",
+    "email": "vritikabnl242@gmail.com",
+    "phone": "0123456789",
+    "role": "Student",
+    "city": "Delhi",
+    "company": "None",
+    "working_in": "JavaScript, Node.js",
+    "github": "vritika1310",
+    "facebook": "None"
+   },
+  
+    {
+    "name": "Mark Grichanik",
+    "email": "markgrichanik@gmail.com",
+    "phone": "526451755",
+    "role": "Software developer",
+    "city": "Beer-Sheva",
+    "company": "Dell",
+    "working_in": "JavaScript, Angular",
+    "github": "markgrichanik",
+    "facebook": "None"
    }
 
   ]
